@@ -55,7 +55,7 @@ namespace GameServer
             app.MapControllers();
 
             //SignalR Hub 매핑 (나중에 추가할 예정)
-            //app.MalpHub
+            //app.MalpHub<GameHub>("/gamehub");
 
             app.Run();
         }
