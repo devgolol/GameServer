@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using GameServer.Models;
+using Microsoft.EntityFrameworkCore;
 using System.Reflection.Emit;
 
 namespace GameServer.Data
