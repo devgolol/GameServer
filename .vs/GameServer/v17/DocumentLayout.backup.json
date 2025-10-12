@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\game-server\\GameServer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{95867948-118D-4FFD-BFF5-327A3ECF4A70}|GameServer\\GameServer.csproj|d:\\game-server\\gameserver\\gameserver\\models\\gamesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95867948-118D-4FFD-BFF5-327A3ECF4A70}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\models\\gamesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95867948-118D-4FFD-BFF5-327A3ECF4A70}|GameServer\\GameServer.csproj|d:\\game-server\\gameserver\\gameserver\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95867948-118D-4FFD-BFF5-327A3ECF4A70}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{95867948-118D-4FFD-BFF5-327A3ECF4A70}|GameServer\\GameServer.csproj|d:\\game-server\\gameserver\\gameserver\\data\\gamedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95867948-118D-4FFD-BFF5-327A3ECF4A70}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\data\\gamedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,19 +35,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GameSession.cs",
+              "DocumentMoniker": "D:\\game-server\\GameServer\\GameServer\\Models\\GameSession.cs",
+              "RelativeDocumentMoniker": "GameServer\\Models\\GameSession.cs",
+              "ToolTip": "D:\\game-server\\GameServer\\GameServer\\Models\\GameSession.cs",
+              "RelativeToolTip": "GameServer\\Models\\GameSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T11:22:32.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\game-server\\GameServer\\GameServer\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "GameServer\\Models\\Player.cs",
+              "ToolTip": "D:\\game-server\\GameServer\\GameServer\\Models\\Player.cs",
+              "RelativeToolTip": "GameServer\\Models\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T11:16:06.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "GameDbContext.cs",
               "DocumentMoniker": "D:\\game-server\\GameServer\\GameServer\\Data\\GameDbContext.cs",
               "RelativeDocumentMoniker": "GameServer\\Data\\GameDbContext.cs",
               "ToolTip": "D:\\game-server\\GameServer\\GameServer\\Data\\GameDbContext.cs",
               "RelativeToolTip": "GameServer\\Data\\GameDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-11T13:14:31.76Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\game-server\\GameServer\\GameServer\\Program.cs",
               "RelativeDocumentMoniker": "GameServer\\Program.cs",
@@ -47,12 +81,11 @@
               "RelativeToolTip": "GameServer\\Program.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAAwDkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T12:07:48.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-11T12:07:48.578Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\game-server\\GameServer\\GameServer\\appsettings.json",
               "RelativeDocumentMoniker": "GameServer\\appsettings.json",
