@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\game-server\\GameServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95867948-118D-4FFD-BFF5-327A3ECF4A70}|GameServer\\GameServer.csproj|d:\\game-server\\gameserver\\gameserver\\controllers\\gamelogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95867948-118D-4FFD-BFF5-327A3ECF4A70}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\controllers\\gamelogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95867948-118D-4FFD-BFF5-327A3ECF4A70}|GameServer\\GameServer.csproj|d:\\game-server\\gameserver\\gameserver\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95867948-118D-4FFD-BFF5-327A3ECF4A70}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95867948-118D-4FFD-BFF5-327A3ECF4A70}|GameServer\\GameServer.csproj|d:\\game-server\\gameserver\\gameserver\\controllers\\gamesessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95867948-118D-4FFD-BFF5-327A3ECF4A70}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\controllers\\gamesessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95867948-118D-4FFD-BFF5-327A3ECF4A70}|GameServer\\GameServer.csproj|d:\\game-server\\gameserver\\gameserver\\models\\friend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95867948-118D-4FFD-BFF5-327A3ECF4A70}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\models\\friend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95867948-118D-4FFD-BFF5-327A3ECF4A70}|GameServer\\GameServer.csproj|d:\\game-server\\gameserver\\gameserver\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95867948-118D-4FFD-BFF5-327A3ECF4A70}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95867948-118D-4FFD-BFF5-327A3ECF4A70}|GameServer\\GameServer.csproj|d:\\game-server\\gameserver\\gameserver\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95867948-118D-4FFD-BFF5-327A3ECF4A70}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95867948-118D-4FFD-BFF5-327A3ECF4A70}|GameServer\\GameServer.csproj|d:\\game-server\\gameserver\\gameserver\\models\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95867948-118D-4FFD-BFF5-327A3ECF4A70}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\models\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,41 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GameLogController.cs",
-              "DocumentMoniker": "D:\\game-server\\GameServer\\GameServer\\Controllers\\GameLogController.cs",
-              "RelativeDocumentMoniker": "GameServer\\Controllers\\GameLogController.cs",
-              "ToolTip": "D:\\game-server\\GameServer\\GameServer\\Controllers\\GameLogController.cs",
-              "RelativeToolTip": "GameServer\\Controllers\\GameLogController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA5AAAAAAAAAA==",
+              "Title": "Notification.cs",
+              "DocumentMoniker": "D:\\game-server\\GameServer\\GameServer\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "GameServer\\Models\\Notification.cs",
+              "ToolTip": "D:\\game-server\\GameServer\\GameServer\\Models\\Notification.cs",
+              "RelativeToolTip": "GameServer\\Models\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T03:38:33.13Z",
+              "WhenOpened": "2025-10-15T14:04:05.232Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GameSessionController.cs",
-              "DocumentMoniker": "D:\\game-server\\GameServer\\GameServer\\Controllers\\GameSessionController.cs",
-              "RelativeDocumentMoniker": "GameServer\\Controllers\\GameSessionController.cs",
-              "ToolTip": "D:\\game-server\\GameServer\\GameServer\\Controllers\\GameSessionController.cs",
-              "RelativeToolTip": "GameServer\\Controllers\\GameSessionController.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAYwGQAAAAAAAAAAAAAAA==",
+              "Title": "Friend.cs",
+              "DocumentMoniker": "D:\\game-server\\GameServer\\GameServer\\Models\\Friend.cs",
+              "RelativeDocumentMoniker": "GameServer\\Models\\Friend.cs",
+              "ToolTip": "D:\\game-server\\GameServer\\GameServer\\Models\\Friend.cs",
+              "RelativeToolTip": "GameServer\\Models\\Friend.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T02:52:02.117Z",
+              "WhenOpened": "2025-10-15T12:33:01.063Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "D:\\game-server\\GameServer\\GameServer\\Controllers\\PlayerController.cs",
-              "RelativeDocumentMoniker": "GameServer\\Controllers\\PlayerController.cs",
-              "ToolTip": "D:\\game-server\\GameServer\\GameServer\\Controllers\\PlayerController.cs",
-              "RelativeToolTip": "GameServer\\Controllers\\PlayerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Title": "Purchase.cs",
+              "DocumentMoniker": "D:\\game-server\\GameServer\\GameServer\\Models\\Purchase.cs",
+              "RelativeDocumentMoniker": "GameServer\\Models\\Purchase.cs",
+              "ToolTip": "D:\\game-server\\GameServer\\GameServer\\Models\\Purchase.cs",
+              "RelativeToolTip": "GameServer\\Models\\Purchase.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T17:59:21.249Z",
+              "WhenOpened": "2025-10-14T14:25:11.951Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "D:\\game-server\\GameServer\\GameServer\\Models\\Shop.cs",
+              "RelativeDocumentMoniker": "GameServer\\Models\\Shop.cs",
+              "ToolTip": "D:\\game-server\\GameServer\\GameServer\\Models\\Shop.cs",
+              "RelativeToolTip": "GameServer\\Models\\Shop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T14:02:24.413Z"
             }
           ]
         }
