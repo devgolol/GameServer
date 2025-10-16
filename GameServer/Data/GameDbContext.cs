@@ -16,6 +16,10 @@ namespace GameServer.Data
         public DbSet<GameSession> GameSessions { get; set; }
         public DbSet<GameLog> GameLogs { get; set; }
         public DbSet<UserReward> UserRewards { get; set; }
+        public DbSet<Shop> Shops { get; set; }
+        public DbSet<Purchase> Purchases { get; set; }
+        public DbSet<Friend> Friends { get; set; }
+        public DbSet <Notification> Notifications { get; set; }
 
 
         //테이블명을 바꾸기
@@ -28,6 +32,10 @@ namespace GameServer.Data
             modelBuilder.Entity<GameSession>().ToTable("game_sessions");
             modelBuilder.Entity<GameLog>().ToTable("game_logs");
             modelBuilder.Entity<UserReward>().ToTable("user_reward");
+            modelBuilder.Entity<Shop>().ToTable("shops");
+            modelBuilder.Entity<Purchase>().ToTable("purchases");
+            modelBuilder.Entity<Friend>().ToTable("friends");
+            modelBuilder.Entity<Notification>().ToTable("notifications");
             
         }
     }
