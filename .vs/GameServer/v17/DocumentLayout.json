@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\game-server\\GameServer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{95867948-118D-4FFD-BFF5-327A3ECF4A70}|GameServer\\GameServer.csproj|d:\\game-server\\gameserver\\gameserver\\services\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95867948-118D-4FFD-BFF5-327A3ECF4A70}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\services\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95867948-118D-4FFD-BFF5-327A3ECF4A70}|GameServer\\GameServer.csproj|d:\\game-server\\gameserver\\gameserver\\services\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95867948-118D-4FFD-BFF5-327A3ECF4A70}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\services\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{95867948-118D-4FFD-BFF5-327A3ECF4A70}|GameServer\\GameServer.csproj|d:\\game-server\\gameserver\\gameserver\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95867948-118D-4FFD-BFF5-327A3ECF4A70}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,6 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RedisCacheService.cs",
+              "DocumentMoniker": "D:\\game-server\\GameServer\\GameServer\\Services\\RedisCacheService.cs",
+              "RelativeDocumentMoniker": "GameServer\\Services\\RedisCacheService.cs",
+              "ToolTip": "D:\\game-server\\GameServer\\GameServer\\Services\\RedisCacheService.cs",
+              "RelativeToolTip": "GameServer\\Services\\RedisCacheService.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAkwHMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T04:33:19.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICacheService.cs",
+              "DocumentMoniker": "D:\\game-server\\GameServer\\GameServer\\Services\\ICacheService.cs",
+              "RelativeDocumentMoniker": "GameServer\\Services\\ICacheService.cs",
+              "ToolTip": "D:\\game-server\\GameServer\\GameServer\\Services\\ICacheService.cs",
+              "RelativeToolTip": "GameServer\\Services\\ICacheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:58:58.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "NotificationController.cs",
               "DocumentMoniker": "D:\\game-server\\GameServer\\GameServer\\Controllers\\NotificationController.cs",
               "RelativeDocumentMoniker": "GameServer\\Controllers\\NotificationController.cs",
@@ -30,12 +64,11 @@
               "RelativeToolTip": "GameServer\\Controllers\\NotificationController.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAAAAAHkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T06:18:47.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T06:18:47.461Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "FriendController.cs",
               "DocumentMoniker": "D:\\game-server\\GameServer\\GameServer\\Controllers\\FriendController.cs",
               "RelativeDocumentMoniker": "GameServer\\Controllers\\FriendController.cs",
@@ -43,8 +76,7 @@
               "RelativeToolTip": "GameServer\\Controllers\\FriendController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T12:36:46.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T12:36:46.186Z"
             }
           ]
         }
